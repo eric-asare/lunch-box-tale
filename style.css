@@ -1,0 +1,14 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.space {
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: #a15555;
+}
