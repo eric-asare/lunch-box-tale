@@ -5,10 +5,11 @@
 
 /* Style the body */
 
-body {
+
+/* body {
     font-family: Arial;
     margin: 0;
-}
+} */
 
 
 /* Column container */
@@ -41,6 +42,18 @@ body {
 .space {
     height: 100px;
     background-color: #ffffff;
+}
+
+.poster {
+    width: 70%;
+}
+
+.poster2 {
+    width: 70%;
+}
+
+.poster3 {
+    width: 70%;
 }
 
 
