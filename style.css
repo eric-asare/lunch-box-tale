@@ -1,4 +1,8 @@
 /* animations */
+.space {
+    height: 75px;
+    background-color: #ffffff;
+}
 
 .pulse {
     animation: pulse 1s infinite ease-in-out alternate;
@@ -42,20 +46,8 @@
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
 
 @media screen and (max-width: 700px) {
-    .row {
-        flex-direction: column;
-    }
-    .space1 {
+    .space {
         height: 25px;
         background-color: #ffffff;
-    }
-    .poster {
-        width: 90%;
-    }
-    .poster2 {
-        width: 90%;
-    }
-    .poster3 {
-        width: 90%;
     }
 }
