@@ -121,3 +121,10 @@ div svg{
   }
 }
 
+
+@media screen and (min-width: 2000px) {
+  .button {
+    font-size: 100px;
+  }
+}
+
