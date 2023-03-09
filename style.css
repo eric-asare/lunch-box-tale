@@ -113,3 +113,11 @@ div svg{
     background-color: #ffffff;
   }
 }
+
+
+@media screen and (min-width: 700px) {
+  button{
+    font-size: 50px;
+  }
+}
+
