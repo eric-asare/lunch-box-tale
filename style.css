@@ -14,7 +14,7 @@ div svg{
 
 /* animations */
 .space {
-  height: 75px;
+  height: 200px;
   background-color: #ffffff;
 }
 
@@ -116,7 +116,7 @@ div svg{
 
 
 @media screen and (min-width: 700px) {
-  .button{
+  .button {
     font-size: 50px;
   }
 }
